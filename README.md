@@ -8,7 +8,7 @@ I am ready to change any API if I find something better
 Also I don't agree 100% with the conventions used here
 So any contribution is welcome
 
-### This Goal
+### Thi Goal
 The goal of this library is not to replace the current widgets comopsiting system. but it can be a good way to protopye your ideas faster.
 
 ### Installation 
@@ -17,7 +17,7 @@ The goal of this library is not to replace the current widgets comopsiting syste
 dependencies:
   flutter:
     sdk: flutter
-  swiftui:
+  flutter_x:
     git: https://github.com/Rahiche/flutter_x
 ```
 
